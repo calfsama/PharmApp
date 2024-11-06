@@ -1,0 +1,39 @@
+
+/* Class = "UITabBarItem"; title = "Избранное"; ObjectID = "5gW-OG-6WN"; */
+"5gW-OG-6WN.title" = "Избранное";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "8M0-QE-kJQ"; */
+"8M0-QE-kJQ.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8M0-QE-kJQ"; */
+"8M0-QE-kJQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IsG-Ta-OtH"; */
+"IsG-Ta-OtH.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "э-Рецепт"; ObjectID = "MLw-mv-a6Y"; */
+"MLw-mv-a6Y.title" = "э-Рецепт";
+
+/* Class = "UIButton"; configuration.title = "Buttondjn"; ObjectID = "Q4S-48-iSq"; */
+"Q4S-48-iSq.configuration.title" = "Buttondjn";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Q4S-48-iSq"; */
+"Q4S-48-iSq.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "TVl-aB-C8f"; */
+"TVl-aB-C8f.title" = " ";
+
+/* Class = "UITabBarItem"; title = "Главная"; ObjectID = "j5d-nD-2KL"; */
+"j5d-nD-2KL.title" = "Главная";
+
+/* Class = "UITabBarItem"; title = "Профиль"; ObjectID = "lhd-7C-KaL"; */
+"lhd-7C-KaL.title" = "Профиль";
+
+/* Class = "UITabBarItem"; title = "Корзина"; ObjectID = "psE-LX-0ip"; */
+"psE-LX-0ip.title" = "Корзина";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "qfb-eg-Cso"; */
+"qfb-eg-Cso.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qfb-eg-Cso"; */
+"qfb-eg-Cso.normalTitle" = "Button";
